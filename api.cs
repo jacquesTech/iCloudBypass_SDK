@@ -17,7 +17,7 @@ namespace iCloudBypass_SDK
             _apiKey = apiKey;
             _httpClient = new HttpClient
             {
-                BaseAddress = new Uri("https://your-api-url.com")
+                BaseAddress = new Uri("https://gsmadjaa.com")
             };
         }
 
