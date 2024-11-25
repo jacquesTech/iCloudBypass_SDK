@@ -19,7 +19,7 @@ public class prepare : iCloudBypass_SDK
          if(icloud.DownloadString("").Contains(""))
   {
 
-    
+    result = true;
   }
        }
        catch(Exception errorx)
